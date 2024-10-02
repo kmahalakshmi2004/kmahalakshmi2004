@@ -1,4 +1,4 @@
-# kmahalakshmi2004-
+# kmahalakshmi2004
 
 ## Hi 👋, I'm K Mahalakshmi
 <br><br>A passionate MERN Stack developer from India</br>
