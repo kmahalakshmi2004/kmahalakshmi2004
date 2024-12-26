@@ -12,9 +12,9 @@
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-<a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/kmahalakshmi2004"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card" align="right"/></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kmahalakshmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="kmahalakshmi2004" /> </p>
 
 - ✌️ Enjoy to do programming and sharing knowledge
 
@@ -28,13 +28,13 @@
   
 - 💭👯 I’m looking to collaborate on OpenSource Projects
 
-- 📝 I regularly write articles on [Medium](https://iamrudhresh.medium.com/)
+- 📝 I regularly write articles on [Medium](https://kmahalakshmi2004.medium.com/)
 
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
 - 📫 How to reach me **officialrudhresh@gmail.com**
 
-- 🎯 Checkout my portfolio <a href="https://iamrudhresh.com" target="_blank">**iamrudhresh.com**</a>
+- 🎯 Checkout my portfolio <a href="https://kmahalakshmi2004.com" target="_blank">**kmahalakshmi2004.com**</a>
   
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PX-sqky4TDk3b9Tzs7Gj7syMaAa99tov/view?usp=sharing)
 
@@ -43,10 +43,10 @@
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
 <p align="left">
-<a href="https://linkedin.com/in/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://twitter.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://fb.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iamrudhresh" height="30" width="40" /></a>
-<a href="https://instagram.com/iamrudhresh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iamrudhresh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
+<a href="https://twitter.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
+<a href="https://fb.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
+<a href="https://instagram.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22327521/rudhresh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
@@ -161,17 +161,17 @@
 <br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
-  <a href="https://github.com/iamrudhresh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamrudhresh&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
+  <a href="https://github.com/kmahalakshmi2004">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kmahalakshmi2004&theme=radical&border=7F3FBF&background=0D1117" alt="Rudhresh's GitHub streak"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/iamrudhresh">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iamrudhresh&theme=radical" alt="Rudhresh's GitHub Contribution"/>
+  <a href="https://github.com/kmahalakshmi2004">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmahalakshmi2004&theme=radical" alt="Rudhresh's GitHub Contribution"/>
   </a>
 </p>
-<a> <a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=iamrudhresh&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-<a href="https://github.com/iamrudhresh"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=iamrudhresh&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a> <a href="https://github.com/kmahalakshmi2004"><img alt="Rudhresh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kmahalakshmi2004&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/kmahalakshmi2004"><img alt="Rudhresh's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kmahalakshmi2004&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
@@ -185,5 +185,5 @@
 
 <!------------------------------------------------------------------------------------ Github Graph --------------------------------------------------------------------------------------------------->
 
-![Rudhresh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamrudhresh&custom_title=%20Rudhresh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Rudhresh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=kmahalakshmi2004&custom_title=%20Rudhresh's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
