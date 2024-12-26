@@ -2,17 +2,17 @@
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20241224%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241224T221541Z&X-Amz-Expires=300&X-Amz-Signature=cf5972910297f0e4fdf040938b12b7b0322b59f2238d5934cad5acd0e46f154f&X-Amz-SignedHeaders=host" alt="Coding Banner" style="width: 100%; height: auto;">
 
 <!-- Centered Heading and Typing SVG -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rudhresh</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Mahalakshmi K</h1>
 <p align="center">
   <a href="https://github.com/Ratheshan03/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Undergraduate;Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer+Engineer;Full+Stack+Web+Developer;DevOps+Engineer&center=true&width=500&height=50">
   </a>
 </p>
 
 
 <!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
 
-<a href="https://app.daily.dev/kmahalakshmi"><img src="https://api.daily.dev/devcards/v2/dB6hkY4IdSYPweLLyV9UZ.png?r=798" width="356" alt="K Mahalakshmi's Dev Card" align="right"/></a>
+<a href="https://app.daily.dev/iamrudhresh"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card" align="right"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamrudhresh&label=Profile%20views&color=0e75b6&style=flat" alt="iamrudhresh" /> </p>
 
@@ -136,15 +136,6 @@
 </div>
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<!------------------------------------------------------------------------------------ ARTICLES --------------------------------------------------------------------------------------------------->
-<h1 align="center">🚀 CHECK OUT MY RECENT ARTICLES ON MEDIUM 🚀 </h1>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/0" alt="Recent Article 0">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/1" alt="Recent Article 1">
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@iamrudhresh/2" alt="Recent Article 2">
-
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
@@ -153,11 +144,11 @@
 <p align="center">
 <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="100px" height="100px"></p>
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmahalakshmi2004&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,Followers,PullRequest">
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamrudhresh&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
+  <img src="https://github-profile-trophy.vercel.app/?username=kmahalakshmi2004&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Issues,Organizations,Stars">
 </div>
 
 <br><br>
@@ -167,7 +158,6 @@
 <!------------------------------------------------------------------------------------ ARCHIEVEMENTS --------------------------------------------------------------------------------------------------->
 <h1 align="center">🚀 ACHIEVEMENTS 🚀 </h1>
 
-[![An image of @iamrudhresh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/iamrudhresh)](https://holopin.io/@iamrudhresh)
 <br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
