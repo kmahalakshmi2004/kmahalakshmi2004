@@ -10,9 +10,9 @@
 </p>
 
 
-<!--<h1 align="center">Hi 👋, I'm Rudhresh</h1>-->
+<!--<h1 align="center">Hi 👋, I'm kmahalakshmi2004</h1>-->
 
-<!--<a href="https://app.daily.dev/kmahalakshmi2004"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="RUDHRESH S's Dev Card" align="right"/></a>-->
+<!--<a href="https://app.daily.dev/kmahalakshmi2004"><img src="https://api.daily.dev/devcards/v2/Ghy5zFuo7dd8UMRsfo1oh.png?type=default&r=xs9" width="356" alt="kmahalakshmi2004 S's Dev Card" align="right"/></a>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kmahalakshmi2004&label=Profile%20views&color=0e75b6&style=flat" alt="kmahalakshmi2004" /> </p>
 
@@ -22,23 +22,17 @@
 
 - 👨‍💻 Love to learn new technologies and to explore new sets of areas.
 
-- 🔭 I’m currently pursing a **B.E. CSE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
+- 🔭 I’m currently pursing a **B.E. ECE at [Chennai Institute Of Technology](https://www.citchennai.edu.in/)**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
-  
-- 💭👯 I’m looking to collaborate on OpenSource Projects
 
 - 📝 I regularly write articles on [Medium](https://kmahalakshmi2004.medium.com/)
 
 - 💡 Contributing to Open Source Projects is always been a goal to me.
 
-- 📫 How to reach me **officialrudhresh@gmail.com**
+- 📫 How to reach me **officialmaha204@gmail.com**
 
-- 🎯 Checkout my portfolio <a href="https://kmahalakshmi2004.com" target="_blank">**kmahalakshmi2004.com**</a>
-  
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1PX-sqky4TDk3b9Tzs7Gj7syMaAa99tov/view?usp=sharing)
-
-- ⚡ Mindset is Everything!
+- ⚡ Hunger for knowledge!
 
 <br>
 <h3 align="left">CONNECT WITH ME</h3>
@@ -47,7 +41,7 @@
 <a href="https://twitter.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
 <a href="https://fb.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
 <a href="https://instagram.com/kmahalakshmi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kmahalakshmi2004" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/22327521/rudhresh-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22327521/kmahalakshmi2004-s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
 </p>
 <br>
 
