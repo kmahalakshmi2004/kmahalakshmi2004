@@ -26,10 +26,6 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 📝 I regularly write articles on [Medium](https://kmahalakshmi2004.medium.com/)
-
-- 💡 Contributing to Open Source Projects is always been a goal to me.
-
 - 📫 How to reach me **officialmaha204@gmail.com**
 
 - ⚡ Hunger for knowledge!
