@@ -83,7 +83,6 @@
               <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=redux" alt="Redux" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=shadcn" alt="ShadCN" width="50" height="50" />
             </a>
@@ -95,7 +94,6 @@
             <a href="https://skillicons.dev">
               <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" width="50" height="50" />
             </a>
           </div>
