@@ -105,12 +105,9 @@
               <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" width="50" height="50" /><br/>
-              <img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="50" height="50" />
-              <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio" width="50" height="50" /><br/>
               <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" width="50" height="50" />
               <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" width="50" height="50" /><br/>
