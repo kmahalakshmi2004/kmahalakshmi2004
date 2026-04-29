@@ -122,7 +122,7 @@
 
 
 <!------------------------------------------------------------------------------------ TROPHY --------------------------------------------------------------------------------------------------->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center">🚀 TROPHY 🚀 </h1>
 
@@ -138,11 +138,11 @@
 
 <br><br>
  
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
 <!------------------------------------------------------------------------------------ ACHIEVEMENTS --------------------------------------------------------------------------------------------------->
 
-<br><br><br>
+<!-- <br><br><br>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
   <a href="https://github.com/kmahalakshmi2004">
@@ -157,15 +157,15 @@
 <a> <a href="https://github.com/kmahalakshmi2004"><img alt="Mahalakshmi's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kmahalakshmi2004&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <a href="https://github.com/kmahalakshmi2004"><img alt="Mahalakshmi's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=kmahalakshmi2004&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
-</a>
+</a> -->
 
 <!------------------------------------------------------------------------------------ SNAKE --------------------------------------------------------------------------------------------------->
 
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> -->
 
 <!------------------------------------------------------------------------------------ Github Graph --------------------------------------------------------------------------------------------------->
 
